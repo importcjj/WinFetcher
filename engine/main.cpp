@@ -136,7 +136,7 @@ int main(int argc, char* argv)
         puts("Injected!");
     }
     getchar();
-	getchar();
-	getchar();
+    getchar();
+    getchar();
     return 0;
 }
